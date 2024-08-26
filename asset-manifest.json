@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pro-react/static/css/main.8848a576.chunk.css",
+    "main.js": "/pro-react/static/js/main.9436d128.chunk.js",
+    "main.js.map": "/pro-react/static/js/main.9436d128.chunk.js.map",
+    "runtime~main.js": "/pro-react/static/js/runtime~main.9f231d72.js",
+    "runtime~main.js.map": "/pro-react/static/js/runtime~main.9f231d72.js.map",
+    "static/js/2.2d18b849.chunk.js": "/pro-react/static/js/2.2d18b849.chunk.js",
+    "static/js/2.2d18b849.chunk.js.map": "/pro-react/static/js/2.2d18b849.chunk.js.map",
+    "static/js/3.68d536b4.chunk.js": "/pro-react/static/js/3.68d536b4.chunk.js",
+    "static/js/3.68d536b4.chunk.js.map": "/pro-react/static/js/3.68d536b4.chunk.js.map",
+    "index.html": "/pro-react/index.html",
+    "precache-manifest.dac273166a7fb7764870c79c26066a51.js": "/pro-react/precache-manifest.dac273166a7fb7764870c79c26066a51.js",
+    "service-worker.js": "/pro-react/service-worker.js",
+    "static/css/main.8848a576.chunk.css.map": "/pro-react/static/css/main.8848a576.chunk.css.map",
+    "static/media/paper.png": "/pro-react/static/media/paper.450c068a.png",
+    "static/media/rock.png": "/pro-react/static/media/rock.527d86e0.png",
+    "static/media/scissors.png": "/pro-react/static/media/scissors.1342bdb2.png"
+  }
+}
